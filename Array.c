@@ -13,11 +13,11 @@ int z[5][5];
         }
     }
 
-    printf("%s", "Masukan panjang array X: ");
+    printf("%s", "Masukan array X: ");
     int lengthArrayX;
     scanf("%d", &lengthArrayX);
     getchar();
-    printf("%s", "Masukan panjang array Y: ");
+    printf("%s", "Masukan array Y: ");
     int lengthArrayY;
     scanf("%d", &lengthArrayY);
     getchar();
